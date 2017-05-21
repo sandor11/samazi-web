@@ -1,3 +1,4 @@
+# samazi-web
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
 Below you will find some information on how to perform basic tasks.  
@@ -175,3 +176,7 @@ The path must be `./` so the assets are served using relative paths.
 elm-app build
 gh-pages -d dist
 ```
+<<<<<<< HEAD
+=======
+>>>>>>> bootstrap elm project
+>>>>>>> b67b191ba69183a6e331b9d79a5d6aba8b313a22
